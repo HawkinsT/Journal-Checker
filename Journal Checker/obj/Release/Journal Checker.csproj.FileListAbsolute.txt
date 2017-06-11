@@ -1,0 +1,14 @@
+c:\users\tobye\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Release\ConsoleApplication5.Properties.Resources.resources
+c:\users\tobye\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Release\Journal Checker.csproj.GenerateResource.Cache
+c:\users\tobye\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Release\Journal Checker.exe.config
+c:\users\tobye\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Release\Journal Checker.exe
+c:\users\tobye\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Release\Journal Checker.pdb
+c:\users\tobye\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Release\Journal Checker.exe
+c:\users\tobye\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Release\Journal Checker.pdb
+C:\Users\tobye\Documents\Journal-Checker\Journal Checker\bin\Release\Journal Checker.exe.config
+C:\Users\tobye\Documents\Journal-Checker\Journal Checker\bin\Release\Journal Checker.exe
+C:\Users\tobye\Documents\Journal-Checker\Journal Checker\bin\Release\Journal Checker.pdb
+C:\Users\tobye\Documents\Journal-Checker\Journal Checker\obj\Release\JournalChecker.Properties.Resources.resources
+C:\Users\tobye\Documents\Journal-Checker\Journal Checker\obj\Release\Journal Checker.csproj.GenerateResource.Cache
+C:\Users\tobye\Documents\Journal-Checker\Journal Checker\obj\Release\Journal Checker.exe
+C:\Users\tobye\Documents\Journal-Checker\Journal Checker\obj\Release\Journal Checker.pdb

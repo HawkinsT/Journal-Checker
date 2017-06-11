@@ -1,0 +1,24 @@
+c:\users\tobye\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\Journal Checker.csprojResolveAssemblyReference.cache
+c:\users\tobye\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.Properties.Resources.resources
+c:\users\tobye\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\Journal Checker.csproj.GenerateResource.Cache
+C:\Users\tobye\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Journal Checker.exe.config
+C:\Users\tobye\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Journal Checker.exe
+C:\Users\tobye\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Journal Checker.pdb
+C:\Users\tobye\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\Journal Checker.exe
+C:\Users\tobye\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\Journal Checker.pdb
+C:\Users\tobye\Documents\Visual Studio 2015\Projects\Journal Checker\Journal Checker\bin\Debug\Journal Checker.exe.config
+C:\Users\tobye\Documents\Visual Studio 2015\Projects\Journal Checker\Journal Checker\obj\Debug\Journal Checker.exe
+C:\Users\tobye\Documents\Visual Studio 2015\Projects\Journal Checker\Journal Checker\obj\Debug\Journal Checker.pdb
+C:\Users\tobye\Documents\Visual Studio 2015\Projects\Journal Checker\Journal Checker\bin\Debug\Journal Checker.exe
+C:\Users\tobye\Documents\Visual Studio 2015\Projects\Journal Checker\Journal Checker\bin\Debug\Journal Checker.pdb
+C:\Users\tobye\Documents\Visual Studio 2015\Projects\Journal Checker\Journal Checker\obj\Debug\Journal Checker.csprojResolveAssemblyReference.cache
+C:\Users\tobye\Documents\Visual Studio 2015\Projects\Journal Checker\Journal Checker\obj\Debug\ConsoleApplication5.Properties.Resources.resources
+C:\Users\tobye\Documents\Visual Studio 2015\Projects\Journal Checker\Journal Checker\obj\Debug\Journal Checker.csproj.GenerateResource.Cache
+C:\Users\tobye\Documents\Journal-Checker\Journal Checker\bin\Debug\Journal Checker.exe.config
+C:\Users\tobye\Documents\Journal-Checker\Journal Checker\obj\Debug\Journal Checker.exe
+C:\Users\tobye\Documents\Journal-Checker\Journal Checker\obj\Debug\Journal Checker.pdb
+C:\Users\tobye\Documents\Journal-Checker\Journal Checker\bin\Debug\Journal Checker.exe
+C:\Users\tobye\Documents\Journal-Checker\Journal Checker\bin\Debug\Journal Checker.pdb
+C:\Users\tobye\Documents\Journal-Checker\Journal Checker\obj\Debug\Journal Checker.csprojResolveAssemblyReference.cache
+C:\Users\tobye\Documents\Journal-Checker\Journal Checker\obj\Debug\Journal Checker.csproj.GenerateResource.Cache
+C:\Users\tobye\Documents\Journal-Checker\Journal Checker\obj\Debug\JournalChecker.Properties.Resources.resources
