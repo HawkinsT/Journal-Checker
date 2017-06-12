@@ -22,3 +22,5 @@ C:\Users\tobye\Documents\Journal-Checker\Journal Checker\bin\Debug\Journal Check
 C:\Users\tobye\Documents\Journal-Checker\Journal Checker\obj\Debug\Journal Checker.csprojResolveAssemblyReference.cache
 C:\Users\tobye\Documents\Journal-Checker\Journal Checker\obj\Debug\Journal Checker.csproj.GenerateResource.Cache
 C:\Users\tobye\Documents\Journal-Checker\Journal Checker\obj\Debug\JournalChecker.Properties.Resources.resources
+C:\Users\tobye\Documents\Journal-Checker\Journal Checker\bin\Debug\UnidecodeSharpFork.dll
+C:\Users\tobye\Documents\Journal-Checker\Journal Checker\bin\Debug\UnidecodeSharpFork.pdb

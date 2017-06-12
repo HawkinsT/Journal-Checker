@@ -61,6 +61,34 @@ namespace JournalChecker.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Revista de Microbiologia
+        ///Anais da Academia Brasileira de Ciências
+        ///ACME
+        ///Acta Dermato-Venereologica
+        ///Acta Mycologica
+        ///Acta Societatis Botanicorum Poloniae
+        ///Acta Stomatologica Croatica
+        ///Acta Veterinaria Brno
+        ///Africa Spectrum
+        ///Proceedings of NAS RA : Mechanics 
+        ///Alfa: Revista de Lingüística
+        ///Análise Social 
+        ///Angle Orthodontist
+        ///Archives Animal Breeding
+        ///Archivo Español de Arte
+        ///Archivos de Zootecnia
+        ///Arquivos Brasileiros de Oftalmologia
+        ///Arquivos de Gastroenterologia
+        ///Arquivos de Neuro-Psiquiatria
+        ///Ars Pharm [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string doajlist {
+            get {
+                return ResourceManager.GetString("doajlist", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Physical Review
         ///2D Materials
         ///3 Biotech
@@ -84,6 +112,31 @@ namespace JournalChecker.Properties {
         internal static string jcrlist {
             get {
                 return ResourceManager.GetString("jcrlist", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Asian Social Science
+        ///
+        ///Academic Exchange Quarterly
+        ///Academic Research Reviews
+        ///Academy of Contemporary Research Journal
+        ///ACME Intellects
+        ///Acta de Gerencia Ciencia
+        ///Acta Advances in Agricultural Sciences
+        ///Acta Kinesiologica
+        ///Acta Medica International
+        ///Acta Scientiae et Intellectus
+        ///Acta Velit
+        ///The Advance Journals of Engineering Mathematics and Computer Sciences
+        ///Advance Research Journal of Multidisciplinary Discoveries
+        ///The Advanced Science Journal
+        ///Advances in Aerospace Science and Technology
+        ///Advances in [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string predatorylist {
+            get {
+                return ResourceManager.GetString("predatorylist", resourceCulture);
             }
         }
     }
