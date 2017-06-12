@@ -14,3 +14,4 @@ C:\Users\tobye\Documents\Journal-Checker\Journal Checker\obj\Release\JournalChec
 C:\Users\tobye\Documents\Journal-Checker\Journal Checker\obj\Release\Journal Checker.csproj.GenerateResource.Cache
 C:\Users\tobye\Documents\Journal-Checker\Journal Checker\obj\Release\Journal Checker.exe
 C:\Users\tobye\Documents\Journal-Checker\Journal Checker\obj\Release\Journal Checker.pdb
+C:\Users\tobye\Documents\Journal-Checker\Journal Checker\obj\Release\Journal Checker.csprojResolveAssemblyReference.cache

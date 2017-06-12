@@ -15,7 +15,7 @@ namespace JournalChecker
         [STAThread]
         static void Main(string[] args)
         {
-            Console.Title = "Journal Checker (v1.03)";
+            Console.Title = "Journal Checker (v1.04)";
 
             string bibFileName = "";
             Boolean inConsole = false;
@@ -93,11 +93,11 @@ namespace JournalChecker
                 string[] matchFormattedL = Regex.Split(match.Groups[3].ToString().ToLowerInvariant()
                     .Replace(",", "").Replace("{", "").Replace("}", "").Replace(@"\c", "").Replace(@"\~", "").Replace(@"\`", "").Replace(@"\'", "")
                     .Replace(@"\^", "").Replace("\\\"", "").Replace(@"\H", "").Replace(@"\k", "").Replace(@"\l", "l").Replace(@"\=", "").Replace(@"\b", "")
-                    .Replace(@"\.", "").Replace(@"\d", "").Replace(@"\r", "").Replace(@"\u", "").Replace(@"\v", "").Replace(@"\t", "").Replace(@"\o", "o").Replace(" & ", " and "), pattern);
+                    .Replace(@"\.", "").Replace(@"\d", "").Replace(@"\r", "").Replace(@"\u", "").Replace(@"\v", "").Replace(@"\t", "").Replace(@"\o", "o").Replace("\\", "").Replace(" & ", " and "), pattern);
                 string matchFormatted = rgx.Replace(match.Groups[3].ToString(), replacement).ToLowerInvariant()
                     .Replace(",", "").Replace("{", "").Replace("}", "").Replace(@"\c", "").Replace(@"\~", "").Replace(@"\`", "").Replace(@"\'", "")
                     .Replace(@"\^", "").Replace("\\\"", "").Replace(@"\H", "").Replace(@"\k", "").Replace(@"\l", "l").Replace(@"\=", "").Replace(@"\b", "")
-                    .Replace(@"\.", "").Replace(@"\d", "").Replace(@"\r", "").Replace(@"\u", "").Replace(@"\v", "").Replace(@"\t", "").Replace(@"\o", "o").Replace(" & ", " and ");
+                    .Replace(@"\.", "").Replace(@"\d", "").Replace(@"\r", "").Replace(@"\u", "").Replace(@"\v", "").Replace(@"\t", "").Replace(@"\o", "o").Replace("\\", "").Replace(" & ", " and ");
 
                 if (!journalsList.Contains(matchFormatted) && !journalsList.Contains(matchFormattedL[0]))
                 {

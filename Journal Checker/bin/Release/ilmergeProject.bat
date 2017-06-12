@@ -1,0 +1,1 @@
+ilmerge "Journal Checker.exe" UnidecodeSharpFork.dll /out:c:JournalChecker.exe /targetplatform:"v4,C:\Windows\Microsoft.NET\Framework\v4.0.30319"
